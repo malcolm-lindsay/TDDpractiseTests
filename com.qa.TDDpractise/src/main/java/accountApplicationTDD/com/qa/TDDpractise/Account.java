@@ -33,6 +33,4 @@ public String getAccountNum() {
 public void setAccountNum(String accountNum) {
 	this.accountNum = accountNum;
 }
-
-
 }
